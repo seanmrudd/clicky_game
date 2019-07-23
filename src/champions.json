@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Amumu",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ashe",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Blitzcrank",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cassiopeia",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Corki",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dr Mundo",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Fiora",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Galio",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Jax",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Kassadin",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Lux",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Malphite",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg"
+    }
+  ]
+  
